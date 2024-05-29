@@ -3,6 +3,8 @@ import pandas as pd
 import pexpect
 import time
 
+directory_name = "Brown100"
+subprocess.run(["cd", directory_name])
 urls = pd.read_csv("problem_urls.csv")["Problem Link"].tolist()
 
 for url in urls:
