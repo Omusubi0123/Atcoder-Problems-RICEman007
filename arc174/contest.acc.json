@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "arc174",
+    "title": "AtCoder Regular Contest 174",
+    "url": "https://atcoder.jp/contests/arc174"
+  },
+  "tasks": [
+    {
+      "id": "arc174_a",
+      "label": "A",
+      "title": "A Multiply",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_a"
+    },
+    {
+      "id": "arc174_b",
+      "label": "B",
+      "title": "Bought Review",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_b"
+    },
+    {
+      "id": "arc174_c",
+      "label": "C",
+      "title": "Catastrophic Roulette",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_c"
+    },
+    {
+      "id": "arc174_d",
+      "label": "D",
+      "title": "Digit vs Square Root",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_d"
+    },
+    {
+      "id": "arc174_e",
+      "label": "E",
+      "title": "Existence Counting",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_e"
+    },
+    {
+      "id": "arc174_f",
+      "label": "F",
+      "title": "Final Stage",
+      "url": "https://atcoder.jp/contests/arc174/tasks/arc174_f"
+    }
+  ]
+}

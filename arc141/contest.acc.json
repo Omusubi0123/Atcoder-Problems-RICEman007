@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "arc141",
+    "title": "AtCoder Regular Contest 141",
+    "url": "https://atcoder.jp/contests/arc141"
+  },
+  "tasks": [
+    {
+      "id": "arc141_a",
+      "label": "A",
+      "title": "Periodic Number",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_a"
+    },
+    {
+      "id": "arc141_b",
+      "label": "B",
+      "title": "Increasing Prefix XOR",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_b"
+    },
+    {
+      "id": "arc141_c",
+      "label": "C",
+      "title": "Bracket and Permutation",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_c"
+    },
+    {
+      "id": "arc141_d",
+      "label": "D",
+      "title": "Non-divisible Set",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_d"
+    },
+    {
+      "id": "arc141_e",
+      "label": "E",
+      "title": "Sliding Edge on Torus",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_e"
+    },
+    {
+      "id": "arc141_f",
+      "label": "F",
+      "title": "Well-defined Abbreviation",
+      "url": "https://atcoder.jp/contests/arc141/tasks/arc141_f"
+    }
+  ]
+}

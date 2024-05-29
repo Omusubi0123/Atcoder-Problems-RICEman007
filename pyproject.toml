@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "atcoder-problems"
+version = "0.1.0"
+description = ""
+authors = ["Omusubi0123"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+pexpect = "^4.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

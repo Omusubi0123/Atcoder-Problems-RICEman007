@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "arc162",
+    "title": "AtCoder Regular Contest 162",
+    "url": "https://atcoder.jp/contests/arc162"
+  },
+  "tasks": [
+    {
+      "id": "arc162_a",
+      "label": "A",
+      "title": "Ekiden Race",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_a"
+    },
+    {
+      "id": "arc162_b",
+      "label": "B",
+      "title": "Insertion Sort 2",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_b"
+    },
+    {
+      "id": "arc162_c",
+      "label": "C",
+      "title": "Mex Game on Tree",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_c"
+    },
+    {
+      "id": "arc162_d",
+      "label": "D",
+      "title": "Smallest Vertices",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_d"
+    },
+    {
+      "id": "arc162_e",
+      "label": "E",
+      "title": "Strange Constraints",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_e"
+    },
+    {
+      "id": "arc162_f",
+      "label": "F",
+      "title": "Montage",
+      "url": "https://atcoder.jp/contests/arc162/tasks/arc162_f"
+    }
+  ]
+}
