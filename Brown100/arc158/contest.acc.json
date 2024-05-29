@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "arc158",
+    "title": "AtCoder Regular Contest 158",
+    "url": "https://atcoder.jp/contests/arc158"
+  },
+  "tasks": [
+    {
+      "id": "arc158_a",
+      "label": "A",
+      "title": "+3 +5 +7",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_a"
+    },
+    {
+      "id": "arc158_b",
+      "label": "B",
+      "title": "Sum-Product Ratio",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_b"
+    },
+    {
+      "id": "arc158_c",
+      "label": "C",
+      "title": "All Pair Digit Sums",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_c"
+    },
+    {
+      "id": "arc158_d",
+      "label": "D",
+      "title": "Equation",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_d"
+    },
+    {
+      "id": "arc158_e",
+      "label": "E",
+      "title": "All Pair Shortest Paths",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_e"
+    },
+    {
+      "id": "arc158_f",
+      "label": "F",
+      "title": "Random Radix Sort",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_f"
+    }
+  ]
+}
